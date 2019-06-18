@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/bonadenys/NSUOC'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'bonadenys@gmail.com' => 'bonadenys@gmail.com' }
+  s.author           = { 'Bona Deny S' => 'bonadenys@gmail.com' }
   s.source           = { :git => 'https://github.com/bonadenys/NSUOC.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
