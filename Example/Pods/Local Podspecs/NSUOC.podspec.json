@@ -1,9 +1,9 @@
 {
   "name": "NSUOC",
   "version": "0.1.0",
-  "summary": "A short description of NSUOC.",
+  "summary": "Request data from API",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/bonadenys@gmail.com/NSUOC",
+  "homepage": "https://github.com/bonadenys/NSUOC",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "bonadenys@gmail.com": "bonadenys@gmail.com"
   },
   "source": {
-    "git": "https://github.com/bonadenys@gmail.com/NSUOC.git",
+    "git": "https://github.com/bonadenys/NSUOC.git",
     "tag": "0.1.0"
   },
   "platforms": {

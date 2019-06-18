@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Request.h"
 
 FOUNDATION_EXPORT double NSUOCVersionNumber;
 FOUNDATION_EXPORT const unsigned char NSUOCVersionString[];
