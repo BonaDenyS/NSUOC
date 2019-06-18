@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.3'
 
-  s.source_files = 'NSUOC/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
   # s.resource_bundles = {
   #   'NSUOC' => ['NSUOC/Assets/*.png']
