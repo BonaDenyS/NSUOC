@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B726EBBBB7CA9E2116E2506BF956540 /* Pods_NSUOC_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NSUOC_Tests.framework; path = "Pods-NSUOC_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0B726EBBBB7CA9E2116E2506BF956540 /* Pods_NSUOC_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NSUOC_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BE868ED980B85DC14272BF66F9CCB4F /* Pods-NSUOC_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NSUOC_Example.modulemap"; sourceTree = "<group>"; };
 		10B1F1C8219F02D2824C0E684A8E4D64 /* Pods-NSUOC_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NSUOC_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		1434CAE718E26A1F3F1946DFB3DE9EE8 /* Pods-NSUOC_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NSUOC_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -49,24 +49,24 @@
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3B0F03AE920D87209D072C324AA92A5E /* Pods-NSUOC_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NSUOC_Tests-dummy.m"; sourceTree = "<group>"; };
 		3C932C6CAFD4ECF9A67221DF9C117A52 /* Pods-NSUOC_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NSUOC_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		3D03CF22831E3625773AA25E71F349E0 /* Pods_NSUOC_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NSUOC_Example.framework; path = "Pods-NSUOC_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		46D6F5AD14CFF678880527BB2106573E /* NSUOC.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = NSUOC.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3D03CF22831E3625773AA25E71F349E0 /* Pods_NSUOC_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NSUOC_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		46D6F5AD14CFF678880527BB2106573E /* NSUOC.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = NSUOC.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		48E77AAB7F0F547B5C0AFEA63AC84CCE /* NSUOC.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NSUOC.xcconfig; sourceTree = "<group>"; };
 		50EB2088AE601E20FE0023A92D80E239 /* NSUOC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSUOC-dummy.m"; sourceTree = "<group>"; };
 		51052928D0D5E6D72DFD68D807281E8B /* Pods-NSUOC_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NSUOC_Tests-Info.plist"; sourceTree = "<group>"; };
 		524C00213C7EE740649496CD04A74380 /* NSUOC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = NSUOC.modulemap; sourceTree = "<group>"; };
-		56A0C490ECEB075D4659E86A313D2750 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		5D8392491E80C5B5A27BD67B3C05CFC5 /* Request.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Request.h; path = NSUOC/Classes/Request.h; sourceTree = "<group>"; };
+		56A0C490ECEB075D4659E86A313D2750 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		5D8392491E80C5B5A27BD67B3C05CFC5 /* Request.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Request.h; sourceTree = "<group>"; };
 		5D8F701CBE8E30A061C2690A05CF8984 /* Pods-NSUOC_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NSUOC_Example-Info.plist"; sourceTree = "<group>"; };
 		5F537791F6CAA516B11A97D685B750D1 /* NSUOC-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "NSUOC-Info.plist"; sourceTree = "<group>"; };
-		60F8342E7A2D0C7D3DE58131B795A899 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		60F8342E7A2D0C7D3DE58131B795A899 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6706CB726B51217CB35712EDB05BB342 /* Pods-NSUOC_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NSUOC_Tests-umbrella.h"; sourceTree = "<group>"; };
 		85618778FA975D5E42355CD16AE9B3C7 /* Pods-NSUOC_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NSUOC_Example-dummy.m"; sourceTree = "<group>"; };
-		9196193627EC5493E9E7B7927D6C190A /* NSUOC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NSUOC.framework; path = NSUOC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9196193627EC5493E9E7B7927D6C190A /* NSUOC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NSUOC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E04DF064EC5ECE9504D662EDB97E67B /* Pods-NSUOC_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NSUOC_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A5992A99167F743C90CBE810CC57A674 /* Pods-NSUOC_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NSUOC_Example-frameworks.sh"; sourceTree = "<group>"; };
-		ADD374579A3047D21AEB2545D61EF8CF /* Request.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Request.m; path = NSUOC/Classes/Request.m; sourceTree = "<group>"; };
+		ADD374579A3047D21AEB2545D61EF8CF /* Request.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Request.m; sourceTree = "<group>"; };
 		AFF6150D09B05E521093DDDD171F3722 /* Pods-NSUOC_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NSUOC_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B92C828357B5DB96DCF62BA3CB9A9D27 /* Pods-NSUOC_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NSUOC_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E33FA2DE9F729BC80C64696CF69E906C /* Pods-NSUOC_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NSUOC_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -113,8 +113,7 @@
 		78DB5078A4BB81B257903AA6E9225CDE /* NSUOC */ = {
 			isa = PBXGroup;
 			children = (
-				5D8392491E80C5B5A27BD67B3C05CFC5 /* Request.h */,
-				ADD374579A3047D21AEB2545D61EF8CF /* Request.m */,
+				8DBDC05522B8E727005CC42F /* Classes */,
 				CE68FECB9FE6DB963C7362D8287A628B /* Pod */,
 				C227FDE70E22499BD1DF87F46E51FCA2 /* Support Files */,
 			);
@@ -130,6 +129,15 @@
 				0B726EBBBB7CA9E2116E2506BF956540 /* Pods_NSUOC_Tests.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		8DBDC05522B8E727005CC42F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				5D8392491E80C5B5A27BD67B3C05CFC5 /* Request.h */,
+				ADD374579A3047D21AEB2545D61EF8CF /* Request.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		96424E0A0FF4C085E33C25CCB69F69E2 /* Development Pods */ = {
@@ -460,8 +468,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
