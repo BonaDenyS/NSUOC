@@ -1,0 +1,6 @@
+framework module NSUOC {
+  umbrella header "NSUOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
